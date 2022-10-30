@@ -14,10 +14,11 @@ main{
 
 #backtotop{
     position: fixed;
-    bottom: 10px;
-    right: 10px;
+    bottom: 28px;
+    right: 28px;
     transition: opacity .3s;
-    color: #2E4C6D;
+    color: #175cd9;
+    z-index: 100;
 }
 
 #backtotop:hover{
@@ -296,6 +297,7 @@ footer li{
 
 #social-links{
     text-align: right;
+    font-size: 1rem;
 }
 
 .fa-solid,
