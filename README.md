@@ -1,4 +1,4 @@
-# Register
+# MovieApp
 
 <img src="images/readme/readme1.png">
 <img src="images/readme/readme2.png">
